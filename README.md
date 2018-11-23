@@ -1,0 +1,2 @@
+# Information_Security-Linux_Capability_Exploration
+在Linux系统下的系统权限，访问控制，最小权限集测试
